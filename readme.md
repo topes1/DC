@@ -1,0 +1,2 @@
+This is where I save my docker compose files. I usally just run them one at a time since I like configuring them when i make the setup.
+The only one that has to be moved is the original file since it needs to be in the raid array.
